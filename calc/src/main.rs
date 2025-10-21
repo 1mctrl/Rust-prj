@@ -85,6 +85,10 @@ fn main() {
         let begin = begin.trim();
 
         if begin == "Start" {
+            println!(
+                "{}",
+                "1. Type first integer\n2. Type second integer\n3. Type operation symbol.".yellow()
+            );
             calculating();
         } else if begin == "Exit" {
             println!("{}", "goodbye!".magenta());
