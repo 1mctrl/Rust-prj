@@ -1,2 +1,2 @@
 [workspace]
-members = ["demo2", "funcs", "rust", "var2", "vars", "demo3", "calc", "euclid", "assembled"]
+members = ["demo2", "funcs", "rust", "var2", "vars", "demo3", "calc", "euclid", "assembled", "tes"]
