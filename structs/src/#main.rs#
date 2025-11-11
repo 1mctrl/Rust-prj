@@ -1,0 +1,6 @@
+use std::io;
+use colored::*;
+
+fn getnums() {
+    let num1 = String::new();
+    io::stdin
