@@ -1,3 +1,3 @@
 [workspace]
-members = ["demo2", "funcs", "rust", "var2", "vars", "demo3", "calc", "euclid", "assembled", "structs", "iter", "assembled2"]
+members = ["demo2", "funcs", "rust", "var2", "vars", "demo3", "calc", "euclid", "assembled", "structs", "iter", "assembled2", "ncurses"]
 resolver = "3"
